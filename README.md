@@ -69,7 +69,7 @@ edge joining 2nd node (peak2 output) to the output node
 bias edge
 ## PROGRAM:
 ```
-Developed By:Magaavelan s
+Developed By:Magavelan S
 Reg.No:212221040093
 ```
 ```
